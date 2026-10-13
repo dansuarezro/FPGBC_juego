@@ -436,6 +436,8 @@ Datasheets revisados durante la investigación:
 Estos documentos describen componentes, pero no reemplazan el mapeo eléctrico
 de la placa real.
 
+
+Git
 ======================================================================
 FIN DEL DOCUMENTO
 ======================================================================
